@@ -1,0 +1,5 @@
+*.pem
+*.enc
+*.txt
+!requirements.txt
+__pycache__/
